@@ -1,0 +1,12 @@
+# OS & editor artifacts
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+*.env
+
+# Lua / Neovim local artifacts
+.luarc.json
+luarocks/
